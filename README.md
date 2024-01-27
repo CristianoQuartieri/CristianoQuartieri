@@ -2,5 +2,4 @@
 - 👀 I’m interested in programming and AI
 - 🌱 I’m currently learning computer science and engineering
 - LinkedIn: www.linkedin.com/in/cristiano-quartieri-992225242
-- Mail: criquart2004@gmail.com
-- Insta: cristiano_quartieri
+- Mail: cristiano.quartieri@gmail.com
