@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CristianoQuartieri
 - 👀 I’m interested in programming and AI
-- 🌱 I’m currently learning computer science and engineering
+- 🌱 I’m currently learning computer engineering
 - LinkedIn: www.linkedin.com/in/cristiano-quartieri-992225242
 - Mail: cristiano.quartieri@gmail.com
