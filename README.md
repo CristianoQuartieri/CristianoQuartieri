@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @CristianoQuartieri
-- 👀 I’m interested in programming and AI
-- 🌱 I’m currently learning computer engineering
-- LinkedIn: www.linkedin.com/in/cristiano-quartieri-992225242
-- Mail: cristiano.quartieri@gmail.com
+Student of computer engineering at Politecnico di Torino
+
+LinkedIn: www.linkedin.com/in/cristiano-quartieri-992225242
+Mail: cristiano.quartieri@gmail.com
